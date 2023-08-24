@@ -6,7 +6,7 @@ Bem vindo à página de desenvolvimento do meu Projeto Integrador III, disciplin
 
 Todas as informações iniciais sobre o projeto estão destacadas na aba "Wiki" aqui mesmo no GitHub!
 
-A seguir nesse espaço, estarão as atualizações do projeto, e como estão as etapas de desenvolvimento. Também é possível acompanhar através do cronograma, disponível [aqui](https://github.com/users/GMotaG/projects/1)
+A seguir nesse espaço, estarão as atualizações do projeto, e como estão as etapas de desenvolvimento. Também é possível acompanhar através do cronograma, disponível [aqui](https://github.com/users/GMotaG/projects/1).
 
 ## 24 de Agosto de 2023
 
